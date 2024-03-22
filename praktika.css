@@ -63,18 +63,18 @@
      line-height: 1.5;
 }
 .theme-gray {
-   background: #2F4F4F;
-   color: #ffffff;
-}
-.theme-gray {
-   background: ##778899;
-   color: #ffffff;
-}
-.theme-gray {
    background: #808080;
    color: #ffffff;
 }
-.theme-gray {
-   background: #DCDCDC;
+.theme-green {
+   background: #008000;
+   color: #ffffff;
+}
+.theme-yellow {
+   background: #FFFF00 ;
+   color: #ffffff;
+}
+.theme-aqua {
+   background: #00FFFF;
    color: #000000;
 }
