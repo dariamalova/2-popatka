@@ -101,11 +101,11 @@ body {
    background: #FF1493;
    color: #000000;
 }
-.img-background {
+.img-background--Rfhfvtkm {
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center center;
-     color: #Rfhfvtkm;
+     color: #000000;
 }
 .img-background--Rfhfvtkm {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/dariamalova/2-popatka/main/Rfhfvtkm.jpg');
@@ -115,7 +115,7 @@ body {
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center center;
-     color: #Vfhvtkfl;
+     color: #000000;
 }
 .img-background--Vfhvtkfl {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/dariamalova/2-popatka/main/Vfhvtkfl.jpg ');
@@ -125,7 +125,7 @@ body {
      background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото3');
      background-size: cover;
      background-repeat: no-repeat;
-     color: #f_625fd20a221d4;
+     color: #000000;
 }
 .img-background--f_625fd20a221d4 {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/dariamalova/2-popatka/main/f_625fd20a221d4.jpg');
