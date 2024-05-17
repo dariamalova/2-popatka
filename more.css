@@ -32,7 +32,7 @@ background-size: auto 145px;
 }
 .level-2 {
 animation: animation_fg linear 55s infinite both; 
-background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/Море%20фон.png) 0 100% repeat-x;
+background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/4%20слой.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -43,7 +43,7 @@ background-size: auto 145px;
 }
 .level-3 {
 animation: animation_fg linear 75s infinite both; 
-background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/Закат%20фон.png) 0 100% repeat-x;
+background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/3%20слой.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
@@ -65,7 +65,7 @@ background-size: auto 145px;
 }
 .level-5 {
 animation: animation_fg linear 120s infinite both; 
-background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/scale_1200%20(1).png) 0 100% repeat-x;
+background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/1%20слой.png) 0 100% repeat-x;
 z-index: 1;
 position: absolute;
 bottom: 0;
