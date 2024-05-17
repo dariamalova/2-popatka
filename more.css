@@ -83,7 +83,7 @@ left: 0;
 width: 100%;
 height: 100%;
 background-size: auto 75px;
-animation: animation_class linear 10s infinite both;
+animation: animation_coach linear 10s infinite both;
 }
 .coach-2 {
 background: url(https://raw.githubusercontent.com/dariamalova/2-popatka/main/pngwing.com%20(82).png) 0 100% no-repeat;
@@ -94,7 +94,7 @@ left: 0;
 width: 100%;
 height: 100%;
 background-size: auto 75px;
-animation: animation_class linear 15s infinite both;
+animation: animation_coach linear 15s infinite both;
 }
 @keyframes animation_fg {
   0% {
