@@ -100,7 +100,7 @@ background-color: #FF00FF
  letter-spacing: 8px;
 }
 #flat .block {
- background: white;
+ background: #8B008B;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
@@ -108,7 +108,7 @@ background-color: #FF00FF
 }
 
 #flat .block-gray {
- background: #EE82EE;
+ background: #f2f2f2;
  padding: 6px;
 }
 #flat .section-overlay-mask {
