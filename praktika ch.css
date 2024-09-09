@@ -89,7 +89,7 @@ background-color: #FF00FF
 
 
 #flat .title {
- background: white;
+ background: black;
  padding: 60px;
  margin: 0 auto;
  text-align: center;
@@ -100,7 +100,7 @@ background-color: #FF00FF
  letter-spacing: 8px;
 }
 #flat .block {
- background: white;
+ background: black;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
