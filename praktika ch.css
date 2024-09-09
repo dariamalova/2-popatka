@@ -100,7 +100,7 @@ background-color: #FF00FF
  letter-spacing: 8px;
 }
 #flat .block {
- background: black;
+ background: white;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
@@ -108,7 +108,7 @@ background-color: #FF00FF
 }
 
 #flat .block-gray {
- background: #f2f2f2;
+ background: black;
  padding: 6px;
 }
 #flat .section-overlay-mask {
@@ -126,7 +126,7 @@ background-color: #FF00FF
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url:"https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20практики%20на%2009.09.jpg";
+ background-image: url("https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20практики%20на%2009.09.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -140,7 +140,7 @@ background-color: #FF00FF
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url:"https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20прктики%20на%209.9.jpg";
+ background-image: url("https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20прктики%20на%209.9.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -154,7 +154,7 @@ background-color: #FF00FF
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url:"https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20практики%2008.9.jpg";
+ background-image: url("https://raw.githubusercontent.com/dariamalova/2-popatka/main/для%20практики%2008.9.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
